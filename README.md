@@ -5,3 +5,13 @@ aptBot is a python script that will scrape a specific unit of an apartment I'm l
 
 ## Page to scrape
 https://thestandardatdomainnorthside.com/floorplans/e1/
+
+### Dev
+
+source env/bin/activate
+
+deactivate
+
+### Sources
+
+https://realpython.com/beautiful-soup-web-scraper-python/
